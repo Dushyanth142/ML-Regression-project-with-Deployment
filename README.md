@@ -9,8 +9,6 @@
 
 This repository contains an end-to-end machine learning project that predicts student performance based on various attributes. The project's primary focus on demonstrating a complete, automated CI/CD pipeline for building, testing, and deploying a web application to the AWS cloud.
 
-*(**Note:** Please replace the placeholder link above with the public IP address of your EC2 instance.)*
-
 ## 🏛️ Architecture & CI/CD Workflow
 
 This project leverages **GitHub Actions** for automation. On every push to the `main` branch, the following CI/CD pipeline is triggered:
