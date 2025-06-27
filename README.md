@@ -13,8 +13,6 @@ This repository contains an end-to-end machine learning project that predicts st
 
 This project leverages **GitHub Actions** for automation. On every push to the `main` branch, the following CI/CD pipeline is triggered:
 
-![CI/CD Workflow](https://i.imgur.com/8QoAgya.png)
-
 1.  **GitHub Push (Trigger):** The workflow starts when new code is pushed to the `main` branch.
 2.  **Docker Build:** GitHub Actions builds a Docker image of the Flask application using the `Dockerfile`.
 3.  **Push to AWS ECR:** The newly built Docker image is tagged and pushed to a private Amazon Elastic Container Registry (ECR).
