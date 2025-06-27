@@ -1,7 +1,7 @@
 # End-to-End ML Regression Project with Automated AWS Deployment
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
-[![Flask](https://img.shields.io/badge/Flask-3.0-black.svg)](https://flask.palletsprojects.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](YOUR_APP_URL)
 [![CI/CD](https://github.com/Dushyanth142/ML-Regression-project-with-Deployment/actions/badge.svg)](https://github.com/Dushyanth142/ML-Regression-project-with-Deployment/actions)
 [![Docker](https://img.shields.io/badge/Docker-Ready-blue.svg)](https://www.docker.com/)
 [![AWS](https://img.shields.io/badge/AWS-Deployed-orange.svg)](https://aws.amazon.com/)
